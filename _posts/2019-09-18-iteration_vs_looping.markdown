@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Iteration vs looping"
-date:       2019-09-18 04:01:19 +0000
+date:       2019-09-18 00:01:20 -0400
 permalink:  iteration_vs_looping
 ---
 

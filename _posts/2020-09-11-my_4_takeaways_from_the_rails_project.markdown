@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My 4 takeaways from the Rails project"
-date:       2020-09-11 04:41:43 +0000
+date:       2020-09-11 00:41:44 -0400
 permalink:  my_4_takeaways_from_the_rails_project
 ---
 
